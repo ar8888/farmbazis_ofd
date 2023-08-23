@@ -1,0 +1,6 @@
+build/
+dist/
+db.db
+logs.txt
+report_*
+
